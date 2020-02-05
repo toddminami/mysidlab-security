@@ -5,4 +5,4 @@ users:
   - name: yusuke
     aws_groups: "incheon, osaka, okinawa"
   - name: kurama
-    aws_groups: "narita, indio, sandiego"
+    aws_groups: "narita, chitose, tokyo"
