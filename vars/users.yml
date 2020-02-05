@@ -1,8 +1,8 @@
 ---
 users:
   - name: hiei
-    aws_groups: "system-admins"
+    aws_groups: "tokyo,osaka,narita"
   - name: yusuke
-    aws_groups: "system-admins"
+    aws_groups: "incheon,beijing,okinawa"
   - name: kurama
-    aws_groups: "system-admins"
+    aws_groups: "haneda,chitose,tokyo"
